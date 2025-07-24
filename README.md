@@ -1,2 +1,69 @@
 # Bacamanga
 Tempat baca manga translate Indonesia
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>chapter 1</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f9f9f9;
+      padding: 1em;
+      margin: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    img {
+      width: 100%;
+      margin-bottom: 10px;
+      display: block;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    nav {
+      text-align: center;
+      margin: 20px 0;
+    }
+    a {
+      text-decoration: none;
+      color: #007BFF;
+    }
+  </style>
+</head>
+<body>
+  <
+  <div class="container">
+    <h1>chapter 1</h1>
+  <div>
+    <a href="bab1.html" class="nav-btn">⬅️ Chapter Sebelumnya</a>
+    <a href="index.html" class="nav-btn">📚 Daftar Chapter</a>
+    <a href="bab2.html" class="nav-btn">➡️ Chapter Selanjutnya</a>
+  </div>
+  
+    <img src="gambar 1.png"
+    <img src="gambar1.png" alt="Halaman 1">
+    <img src="gambar2.png" alt="Halaman 2">
+    <img src="gambar3.png" alt="Halaman 3">
+    <img src="gambar4.png" alt="Halaman 4">
+    <img src="gambar5.png" alt="Halaman 5">
+    <img src="gambar6.png" alt="Halaman 6">
+    <img src="gambar7.png" alt="Halaman 7">
+    <img src="gambar8.png" alt="Halaman 8">
+    <nav>
+     
+    </nav>
+  </div>
+    <a href="bab1.html" class="nav-btn">⬅️ Chapter Sebelumnya</a>
+    <a href="index.html" class="nav-btn">📚 Daftar Chapter</a>
+    <a href="bab2.html" class="nav-btn">➡️ Chapter Selanjutnya</a>
+  </div>
+</body>
+</html>
